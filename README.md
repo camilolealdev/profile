@@ -1,54 +1,48 @@
-# camilolealdev
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:20,0:a371f7,100:000000&height=250&text=Camilo%20Leal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Automation%20%26%20Full%20Stack%20Developer&descSize=24&descColor=FFFFFF&descAlignY=60" width="100%" />
+</div>
 
-## AI Automation & Full Stack Developer
+## 👋 Hola, soy Camilo Leal
 
-<p align="center">
-  <a href="https://github.com/camilolealdev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilolealdev&cache_seconds=7200&theme=radical&border_radius=10&show_icons=true" alt="camilolealdev's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>AI Automation | Full Stack Development | Digital Innovation</sub>
-</p>
+AI Automation & Full Stack Developer | Digital Innovation Professional
 
 ---
 
-## 👤 About Me
+## 👤 Sobre Mí
 
-Technology & Digital Innovation Professional with **18+ years of experience** working with people, teams and technology. I specialize in building practical business solutions at the intersection of technology, business and customer experience.
+Profesional de Tecnología e Innovación Digital con **18+ años de experiencia** trabajando con personas, equipos y tecnología. Me especializo en construir soluciones prácticas de negocio en la intersección de tecnología, negocio y experiencia del cliente.
 
-**Current Focus:**
+**Enfoque Actual:**
 - AI Automation & Intelligent Systems
 - Full Stack Development (React, TypeScript, Node.js)
 - Business Process Automation
 - CRM & API Integrations
 - AI-Powered Applications
 
-**Background:** Capoeira instructor, researcher and cultural practitioner. I believe technology can democratize knowledge.
+**Antecedentes:** Instructor de Capoeira, investigador y practicante cultural. Creo que la tecnología puede democratizar el conocimiento.
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 Áreas de Enfoque
 
-| Area | Description |
+| Área | Descripción |
 |------|-------------|
-| **AI Automation** | Building intelligent systems that automate repetitive tasks and decision processes |
-| **Full Stack Development** | End-to-end web applications with modern React and Node.js ecosystems |
-| **Business Process Automation** | Streamlining operations through custom workflows and integrations |
-| **CRM & API Integrations** | Connecting business systems for seamless data flow |
-| **AI-Powerer Applications** | Embedding AI capabilities into practical business tools |
-| **Web Applications** | Responsive, accessible web solutions |
-| **Digital Innovation** | Exploring emerging technologies for business value |
-| **Conversational AI** | Chatbots and voice interfaces |
-| **KPI Dashboards & BI** | Data visualization for business insights |
-| **Marketing Technology** | Martech stack implementation and optimization |
-| **Cloud & DevOps** | Cloud platforms and deployment automation |
-| **Technical Operations** | System reliability and performance optimization |
+| **AI Automation** | Construyendo sistemas inteligentes que automatizan tareas repetitivas y procesos de decisión |
+| **Full Stack Development** | Aplicaciones web end-to-end con ecosistemas modernos de React y Node.js |
+| **Business Process Automation** | Optimizando operaciones a través de flujos de trabajo e integraciones personalizadas |
+| **CRM & API Integrations** | Conectando sistemas de negocio para flujo de datos sin interrupciones |
+| **AI-Powered Applications** | Incorporando capacidades de IA en herramientas de negocio prácticas |
+| **Web Applications** | Soluciones web responsivas y accesibles |
+| **Digital Innovation** | Explorando tecnologías emergentes para valor de negocio |
+| **Conversational AI** | Chatbots e interfaces de voz |
+| **KPI Dashboards & BI** | Visualización de datos para insights de negocio |
+| **Marketing Technology** | Implementación y optimización de stacks de martech |
+| **Cloud & DevOps** | Plataformas cloud y automatización de despliegue |
+| **Technical Operations** | Confiabilidad del sistema y optimización de rendimiento |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/camilolealdev">
@@ -64,7 +58,7 @@ Technology & Digital Innovation Professional with **18+ years of experience** wo
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Lenguajes y Herramientas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -80,18 +74,18 @@ Technology & Digital Innovation Professional with **18+ years of experience** wo
 
 ---
 
-## 📦 Selected Projects
+## 📦 Proyectos Destacados
 
-| Project | Description | Tech Stack |
+| Proyecto | Descripción | Tech Stack |
 |---------|-------------|------------|
-| **AI Automation Platform** | Intelligent workflow automation system | Node.js, React, Python, OpenAI API |
-| **CRM Integration Suite** | Multi- CRM connector with automation | PHP, Laravel, REST APIs |
-| **Dashboard & BI Tool** | KPI visualization platform | React, TypeScript, Chart.js |
-| **Automation Bot** | Task automation and scheduling | Python, Playwright, APIs |
+| **AI Automation Platform** | Sistema de automatización de flujos de trabajo inteligente | Node.js, React, Python, OpenAI API |
+| **CRM Integration Suite** | Conector multi-CRM con automatización | PHP, Laravel, REST APIs |
+| **Dashboard & BI Tool** | Plataforma de visualización KPI | React, TypeScript, Chart.js |
+| **Automation Bot** | Automatización de tareas y programación | Python, Playwright, APIs |
 
 ---
 
-## 📫 Connect with Me
+## 📫 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabian-camilo-leal/">
@@ -115,5 +109,5 @@ Technology & Digital Innovation Professional with **18+ years of experience** wo
 </picture>
 
 <p align="center">
-  <sub>Last updated: November 2026</sub>
+  <sub>Última actualización: Noviembre 2026</sub>
 </p>
